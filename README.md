@@ -12,8 +12,8 @@ Referrals and Tests: Provides recommendations for referrals and tests.
 Logs: Logs user inputs and AI responses to text files for record-keeping.
 
 # Requirements
-Python 3.7 or higher
-OpenAI API key (for chatbot interaction)
+Python 3.7 or higher, 
+OpenAI API key (for chatbot interaction), 
 Required Python libraries (listed below)
 
 # Installation
