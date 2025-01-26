@@ -1,0 +1,4 @@
+openai==0.27.0          # For interacting with the OpenAI API
+halo==0.0.31            # For the spinner (loading indicator)
+textwrap3==0.9.2        # For the textwrap library (though it's typically in Python's standard library, this is for a compatible version)
+PyYAML==6.0             # For reading and writing YAML files (if you're using YAML files)
