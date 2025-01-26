@@ -20,7 +20,6 @@ Required Python libraries (listed below)
 Clone this repository:
 
 ```bash
-Copy
 git clone <repository-url>
 cd <project-directory>
 ```
@@ -28,7 +27,6 @@ cd <project-directory>
 Install the required dependencies:
 
 ```bash
-Copy
 pip install -r requirements.txt
 ```
 
@@ -47,7 +45,6 @@ Usage
 Run the Application: To start the app, simply run the script:
 
 ```bash
-Copy
 python app.py
 ```
 
