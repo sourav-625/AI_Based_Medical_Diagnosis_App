@@ -29,6 +29,7 @@ Install the required dependencies:
 ```bash
 Copy
 pip install -r requirements.txt
+```
 
 # Required Python Libraries:
 
@@ -46,7 +47,8 @@ Run the Application: To start the app, simply run the script:
 
 ```bash
 Copy
-python app.py```
+python app.py
+```
 
 # Interact with the Bot:
 
