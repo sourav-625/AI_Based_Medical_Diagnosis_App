@@ -1,0 +1,73 @@
+NOTES:
+
+- Patient is in their 80s and has been experiencing episodes of "freezing" for the past few weeks, lasting approximately 20 seconds each. 
+- During these episodes, patient appears to lose consciousness or awareness but does not recall any significant events or symptoms associated with the episodes.
+- The episodes typically occur in the middle of the day when the patient is most active. No specific triggers have been identified.
+- Patient reports feeling a bit confused and having difficulty finding the right words after the episodes, but does not experience any other symptoms such as dizziness or difficulty speaking.
+- Patient had a fall and mild concussion about 8 months ago. The patient does not recall experiencing these episodes prior to the fall.
+- No changes in sleep patterns or quality of sleep have been reported around the time these episodes started occurring.
+- Patient does not recall any significant events or symptoms before the episodes, and does not feel an urge to sit or lie down during these episodes.
+- Patient does not believe the episodes are related to the fall and concussion, as they only started occurring recently.
+
+REPORT:
+
+1. TRANSIENT ISCHEMIC ATTACK (TIA): Also known as a mini-stroke, a TIA is a brief episode of neurological dysfunction caused by loss of blood flow in the brain, spinal cord, or retina, without tissue death.
+   - DIFFERENTIALS: Stroke, seizure, syncope, migraine, metabolic disorders.
+   - DEMOGRAPHICS: More common in older adults, particularly those over 60.
+   - SYMPTOMS: Sudden weakness or numbness on one side of the body, confusion, trouble speaking or understanding speech, dizziness, loss of balance or coordination, sudden severe headache.
+   - INDICATORS: Patient's age, episodes of "freezing" or loss of consciousness, confusion and difficulty finding words after episodes.
+   - CONTRAINDICATORS: No reported weakness, numbness, severe headache, or dizziness.
+   - PROGNOSIS: TIAs are often warning signs for future strokes. With proper management, the risk of future stroke can be significantly reduced.
+   - TREATMENT: Lifestyle changes, medications to prevent clotting, and possibly surgery to improve blood flow to the brain.
+   - TESTS: Brain imaging with CT or MRI, carotid ultrasound, echocardiogram, blood tests.
+
+2. EPILEPSY: A neurological disorder in which brain activity becomes abnormal, causing seizures or periods of unusual behavior, sensations, and sometimes loss of awareness.
+   - DIFFERENTIALS: Syncope, panic attacks, transient ischemic attack (TIA), migraines.
+   - DEMOGRAPHICS: Can occur at any age but more common in young children and older adults.
+   - SYMPTOMS: Temporary confusion, staring spell, uncontrollable jerking movements of the arms and legs, loss of consciousness or awareness.
+   - INDICATORS: Episodes of "freezing" or loss of consciousness, confusion after episodes, history of head injury (fall and mild concussion).
+   - CONTRAINDICATORS: No reported jerking movements, no reported triggers.
+   - PROGNOSIS: With proper treatment, most people with epilepsy can have fewer or no seizures.
+   - TREATMENT: Medications, surgery, therapies like vagus nerve stimulation or ketogenic diet.
+   - TESTS: Neurological exam, blood tests, Electroencephalogram (EEG), brain imaging (CT scan, MRI).
+   
+CLINICAL EVALUATION:
+   
+## SENSES
+
+SIGHT: Look for any signs of physical discomfort or distress during the episodes. Observe for any involuntary movements, twitching, or changes in facial expression. 
+
+SOUND: Listen for any changes in speech patterns or coherence before, during, and after the episodes. 
+
+TOUCH: Check for any changes in muscle tone or responsiveness during the episodes. 
+
+SMELL: No specific smells are expected to be relevant in this case.
+
+## EXAMINATION
+
+- NEUROLOGICAL EXAM: Assess the patient's cognitive function, motor function, and sensory function. This can help identify any neurological abnormalities that may be causing the episodes. Look for signs of Parkinson's disease, stroke, or other neurological conditions.
+- EEG (ELECTROENCEPHALOGRAM): This test can help identify any abnormal electrical activity in the brain that may be causing the episodes. Look for signs of seizure activity or other abnormalities.
+- MRI OR CT SCAN: These imaging tests can help identify any structural abnormalities in the brain that may be causing the episodes. Look for signs of brain injury, tumors, or other abnormalities.
+
+## INTERVIEW
+
+- EPISODE TRIGGERS: "Have you noticed any patterns or triggers that seem to precede these episodes?"
+- POST-EPISODE SYMPTOMS: "Can you describe in more detail what you feel like after these episodes? Do you experience any physical discomfort or mental confusion?"
+- MEDICAL HISTORY: "Have you had any other neurological symptoms or conditions in the past? Have you ever had seizures or episodes of lost consciousness before?" 
+- CONCUSSION FOLLOW-UP: "Did you have any follow-up care or treatment after your fall and concussion? Did you experience any lingering symptoms?"
+
+REFERRALS AND TESTS:
+
+## REFERRALS
+
+- NEUROLOGIST: The patient's episodes of "freezing" and subsequent confusion could be indicative of a neurological issue. The neurologist should conduct a thorough neurological examination, including cognitive and motor function assessments. The patient's history of a fall and mild concussion should be taken into account, as well as the recent onset of these episodes. The neurologist should look for signs of conditions such as transient ischemic attacks (TIAs), seizures, or other neurological disorders.
+
+## LABS & TESTS
+
+- EEG (ELECTROENCEPHALOGRAM): This test will help to identify any abnormal electrical activity in the brain that could be causing the patient's episodes. It can help to rule in or out conditions such as epilepsy or other seizure disorders.
+
+- MRI OF THE BRAIN: This imaging test will provide a detailed view of the patient's brain, allowing for the identification of any structural abnormalities, such as lesions or tumors, that could be causing the patient's symptoms. It can also help to assess the extent of any damage from the patient's previous concussion.
+
+- COMPLETE BLOOD COUNT (CBC) AND METABOLIC PANEL: These tests will help to identify any underlying medical conditions, such as anemia or electrolyte imbalances, that could be contributing to the patient's symptoms.
+
+- CAROTID ULTRASOUND: This test can help to identify any blockages or narrowing in the carotid arteries, which could lead to transient ischemic attacks (TIAs) - brief episodes of neurological dysfunction caused by a temporary decrease in blood supply to the brain. This could potentially explain the patient's episodes of "freezing" and subsequent confusion.
