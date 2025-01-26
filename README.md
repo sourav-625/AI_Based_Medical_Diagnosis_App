@@ -64,7 +64,7 @@ Logs: The application will create log files in the logs/ directory, which includ
 You can modify the system prompt files (intake.md, prepare_notes.md, etc.) to customize the questions or style of the responses.
 You can adjust the temperature and max token settings in the chatbot() function for different types of responses from the AI model.  
 Example Interaction  
-plaintext  
+plaintext
 Copy  
 Describe your symptoms to the intake bot.
 
