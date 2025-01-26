@@ -12,8 +12,8 @@ Referrals and Tests: Provides recommendations for referrals and tests.
 Logs: Logs user inputs and AI responses to text files for record-keeping.
 
 # Requirements
-Python 3.7 or higher, 
-OpenAI API key (for chatbot interaction), 
+Python 3.7 or higher  
+OpenAI API key (for chatbot interaction)   
 Required Python libraries (listed below)
 
 # Installation
@@ -34,16 +34,16 @@ pip install -r requirements.txt
 
 # Required Python Libraries:
 
-openai – For making requests to the OpenAI API.
-halo – For a loading spinner during chatbot interactions.
-textwrap – For wrapping long text into readable lines.
+openai – For making requests to the OpenAI API.  
+halo – For a loading spinner during chatbot interactions.  
+textwrap – For wrapping long text into readable lines.  
 time – For timestamping log files.
 
 # Get an OpenAI API Key:
 
-Sign up for an API key from OpenAI if you don’t have one: https://beta.openai.com/signup/.
-Store the API key in a file named key_openai.txt in the root directory of the project.
-Usage
+Sign up for an API key from OpenAI if you don’t have one: https://beta.openai.com/signup/.  
+Store the API key in a file named key_openai.txt in the root directory of the project.  
+Usage  
 Run the Application: To start the app, simply run the script:
 
 ```bash
@@ -62,10 +62,10 @@ Logs: The application will create log files in the logs/ directory, which includ
 # Customization:
 
 You can modify the system prompt files (intake.md, prepare_notes.md, etc.) to customize the questions or style of the responses.
-You can adjust the temperature and max token settings in the chatbot() function for different types of responses from the AI model.
-Example Interaction
-plaintext
-Copy
+You can adjust the temperature and max token settings in the chatbot() function for different types of responses from the AI model.  
+Example Interaction  
+plaintext  
+Copy  
 Describe your symptoms to the intake bot.
 
 PATIENT: I have a headache and a sore throat.
