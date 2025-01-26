@@ -22,7 +22,8 @@ Clone this repository:
 ```bash
 Copy
 git clone <repository-url>
-cd <project-directory>```
+cd <project-directory>
+```
 
 Install the required dependencies:
 
