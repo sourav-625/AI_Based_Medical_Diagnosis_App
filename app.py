@@ -59,7 +59,7 @@ if __name__ == '__main__':
         while(True) :
             text_block = '\n\n'.join(all_messages)
             chat_log = '<<BEGIN PATIENT INTAKE CHAT>>\n\n%s\n\n<<END PATIENT INTAKE CHAT>>' % text_block
-            save_file('chats/chat_%s_chat.txt' % time(), chat_log)
+            save_file('chats/chat_%s_history.txt' % time(), chat_log)
             conversation.append({'role': 'user', 'content': chat_log})
             notes, tokens = chatbot(conversation)
             print('\n\n Please check whether this summarizes you condition:\n\n%s' % notes)
@@ -93,7 +93,7 @@ if __name__ == '__main__':
     conversation.append({'role': 'system', 'content': open_file('referrals.md')})
     conversation.append({'role': 'user', 'content': notes})
     referrals, tokens = chatbot(conversation)
-    history = notes_report_clinical + '\n\nREFERRALS AND TESTS:\n\n' + referrals
+    final_report = notes_report_clinical + '\n\nREFERRALS AND TESTS:\n\n' + referrals
     print('\n\nReferrals and Tests:\n\n%s' % referrals)
 
-    save_file('chats/chat_%s_history.txt' % time(), history)
+    save_file('chats/chat_%s_reports.txt' % time(), final_report)
