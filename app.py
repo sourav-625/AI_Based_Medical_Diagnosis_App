@@ -85,7 +85,7 @@ if __name__ == '__main__':
     conversation.append({'role': 'system', 'content': open_file('clinical.md')})
     conversation.append({'role': 'user', 'content': notes})
     clinical, tokens = chatbot(conversation)
-    notes_report_clinical = notes_report + '\n\nC' + clinical
+    notes_report_clinical = notes_report + '\n\nCLINICAL EVALUATION:\n\n' + clinical
     print('\n\nClinical Evaluation:\n\n%s' % clinical)
 
     print('\n\nFor better diagnosis please refer to:')
@@ -93,7 +93,7 @@ if __name__ == '__main__':
     conversation.append({'role': 'system', 'content': open_file('referrals.md')})
     conversation.append({'role': 'user', 'content': notes})
     referrals, tokens = chatbot(conversation)
-    history = notes_report_clinical + referrals
+    history = notes_report_clinical + '\n\nREFERRALS AND TESTS:\n\n' + referrals
     print('\n\nReferrals and Tests:\n\n%s' % referrals)
 
     save_file('chats/chat_%s_history.txt' % time(), history)
