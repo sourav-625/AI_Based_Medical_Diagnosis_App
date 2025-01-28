@@ -26,6 +26,6 @@ BOT: That's helpful to know. Do you notice any triggers that might be causing th
 
 PATIENT: not that I'm aware of no
 
-BOT: Thank you for your responses.
+BOT: Thank you for cooperating.
 
 <<END PATIENT INTAKE CHAT>>
