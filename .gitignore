@@ -1,1 +1,4 @@
 key_openai.txt
+node_modules
+package.json
+package_lock.json
