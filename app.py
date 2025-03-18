@@ -35,7 +35,7 @@ if __name__ == '__main__':
     user_messages = list()
     all_messages = list()
     def intake(conversation) :
-        conversation.append({'role': 'system', 'content': open_file('intake.md')})
+        conversation.append({'role': 'system', 'content': open_file('./Commands/intake.md')})
         print('Describe your symptoms to the intake bot.')        
         while True:
             text = input('\n\nPATIENT: ').lower().strip()
@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
     def generate_notes(conversation) :
         conversation = list()
-        conversation.append({'role': 'system', 'content': open_file('prepare_notes.md')})
+        conversation.append({'role': 'system', 'content': open_file('./Commands/prepare_notes.md')})
         while(True) :
             text_block = '\n\n'.join(all_messages)
             chat_log = '<<BEGIN PATIENT INTAKE CHAT>>\n\n%s\n\n<<END PATIENT INTAKE CHAT>>' % text_block
@@ -74,7 +74,7 @@ if __name__ == '__main__':
 
     print('\n\nGenerating a Report for you')
     conversation = list()
-    conversation.append({'role': 'system', 'content': open_file('diagnosis.md')})
+    conversation.append({'role': 'system', 'content': open_file('./Commands/diagnosis.md')})
     conversation.append({'role': 'user', 'content': notes})
     report, tokens = chatbot(conversation)
     notes_report = 'NOTES:\n\n' + notes + '\n\nREPORT:\n\n' + report
@@ -82,7 +82,7 @@ if __name__ == '__main__':
 
     print('\n\nEvaluation')
     conversation = list()
-    conversation.append({'role': 'system', 'content': open_file('clinical.md')})
+    conversation.append({'role': 'system', 'content': open_file('./Commands/clinical.md')})
     conversation.append({'role': 'user', 'content': notes})
     clinical, tokens = chatbot(conversation)
     notes_report_clinical = notes_report + '\n\nCLINICAL EVALUATION:\n\n' + clinical
@@ -90,7 +90,7 @@ if __name__ == '__main__':
 
     print('\n\nFor better diagnosis please refer to:')
     conversation = list()
-    conversation.append({'role': 'system', 'content': open_file('referrals.md')})
+    conversation.append({'role': 'system', 'content': open_file('./Commands/referrals.md')})
     conversation.append({'role': 'user', 'content': notes})
     referrals, tokens = chatbot(conversation)
     final_report = notes_report_clinical + '\n\nREFERRALS AND TESTS:\n\n' + referrals
