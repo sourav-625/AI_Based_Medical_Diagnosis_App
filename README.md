@@ -75,4 +75,4 @@ Once the user confirms the notes and responses, the bot generates a diagnosis an
 
 ## Contributing
 
-If you'd like to contribute to the project, feel free to submit a pull request or raise an issue. Make sure to:
+If you'd like to contribute to the project, feel free to submit a pull request or raise an issue.
